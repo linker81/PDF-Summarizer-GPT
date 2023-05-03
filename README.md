@@ -13,3 +13,5 @@ The following parameters, modify the behavior of the script:
 - max_sentences: maximum number of sentences to use to summarize a page
 - temperature: temperature parameter 
 
+An interesting course on ChatGPT Prompt Engineering is:
+https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
